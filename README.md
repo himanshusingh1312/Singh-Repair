@@ -33,7 +33,7 @@ Online Booking , order status, contact  and reviews the services .
 
 
 
-![App Screenshot](/public/r5.png)
+![r5](https://github.com/user-attachments/assets/9a034e4c-4549-40f8-a4c1-c5c25ac682a7)
 
 ![App Screenshot](/public/r2.png)
 
