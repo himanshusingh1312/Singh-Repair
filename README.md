@@ -37,11 +37,11 @@ Online Booking , order status, contact  and reviews the services .
 
 ![r4](https://github.com/user-attachments/assets/60391c91-9abe-4eff-9cc1-398b2c62c9f4)
 
-![App Screenshot](/public/r3.png)
+![r3](https://github.com/user-attachments/assets/1cf8117d-da42-4781-9082-094ce1a0d6cd)
 
 ![App Screenshot](/public/r4.png)
 
-![App Screenshot](/public/r1.png)
+
 
 
 
