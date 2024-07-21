@@ -33,7 +33,7 @@ Online Booking , order status, contact  and reviews the services .
 
 
 
-![App Screenshot](/public/r1.png)
+![App Screenshot](/public/r5.png)
 
 ![App Screenshot](/public/r2.png)
 
@@ -41,7 +41,7 @@ Online Booking , order status, contact  and reviews the services .
 
 ![App Screenshot](/public/r4.png)
 
-![App Screenshot](/public/r5.png)
+![App Screenshot](/public/r1.png)
 
 
 
