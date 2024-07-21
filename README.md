@@ -39,7 +39,7 @@ Online Booking , order status, contact  and reviews the services .
 
 ![r3](https://github.com/user-attachments/assets/1cf8117d-da42-4781-9082-094ce1a0d6cd)
 
-![App Screenshot](/public/r4.png)
+![r2](https://github.com/user-attachments/assets/87d8d8b9-4cfc-41f2-95e2-a6eeece487c4)
 
 
 
