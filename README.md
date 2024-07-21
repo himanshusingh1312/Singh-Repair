@@ -35,7 +35,7 @@ Online Booking , order status, contact  and reviews the services .
 
 ![r5](https://github.com/user-attachments/assets/9a034e4c-4549-40f8-a4c1-c5c25ac682a7)
 
-![App Screenshot](/public/r2.png)
+![r4](https://github.com/user-attachments/assets/60391c91-9abe-4eff-9cc1-398b2c62c9f4)
 
 ![App Screenshot](/public/r3.png)
 
